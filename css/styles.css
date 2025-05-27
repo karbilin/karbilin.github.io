@@ -247,11 +247,11 @@ sup {
 }
 
 a {
-  color: var(--bs-link-color);
+  color: blueviolet;
   text-decoration: underline;
 }
 a:hover {
-  color: var(--bs-link-hover-color);
+  color: lightslategray;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -8037,7 +8037,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
+  color: darkorchid;
 }
 
 .text-secondary {
@@ -8128,7 +8128,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  background-color: #6c757d;
 }
 
 .bg-secondary {
@@ -10951,7 +10951,7 @@ section.resume-section {
   padding-right: 1rem;
   padding-top: 5rem;
   padding-bottom: 5rem;
-  max-width: 75rem;
+  max-width: 100rem;
 }
 section.resume-section .resume-section-content {
   width: 100%;
