@@ -3,9 +3,6 @@ p{
     font-size: large;
 }
 
-.chrishigh{
-    color: blueviolet;
-}
 
 div.chrishigh{
     background-color: darkgrey;
@@ -18,4 +15,18 @@ div.chrishigh{
     background-image: url("../assets/img/bgph.jpg");
     background-size: cover ;
     background-repeat: no-repeat;
+}
+
+.chrisbg1{
+    background-image: url("../assets/img/BG1.jpg");
+    background-size: cover ;
+    background-repeat: no-repeat;
+}
+
+.cc{
+    color: aliceblue;
+}
+
+.chrisuni{
+    color: gainsboro;
 }
