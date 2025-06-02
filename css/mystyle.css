@@ -43,3 +43,11 @@ div.chrishigh{
   }
 }
   
+.listwrd{
+    font-weight: bold;
+    color: #4b4b4b;
+}
+
+.alllistwrd{
+    color: #000;
+}
